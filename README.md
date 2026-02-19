@@ -6,7 +6,7 @@ I'm a cloud IAM engineer focused on identity governance, least-privilege access,
 
 <h3>Reach me on</h3>
 <a href="https://www.linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5"
+  <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=1A1A1A"
        height="25">
 </a>
 
@@ -16,6 +16,6 @@ I'm a cloud IAM engineer focused on identity governance, least-privilege access,
 </a>
 
 <a href="mailto:youremail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=EA4335"
-       height="25">
+  <img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=1A1A1A"
+       height="40">
 </a>
