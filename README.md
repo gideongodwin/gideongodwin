@@ -2,7 +2,7 @@
 
 **`IAM Engineer`**
  
-I'm a cloud IAM engineer focused on identity governance, least-privilege access, and cloud entitlement management\
+I'm a cloud IAM engineer focused on identity governance, least-privilege access, and cloud entitlement management
 
 <h3>Reach me on</h3>
 <a href="https://www.linkedin.com">
